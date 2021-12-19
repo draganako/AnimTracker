@@ -1,0 +1,242 @@
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojResolveAssemblyReference.cache
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+D:\D particija\Nastava\Napredne baze podataka NOVI NASTAVNI PROGRAM\Cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Faks\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\PC USER\Downloads\Animal_cassandra_poslednje\Animal_cassandra_1578258995\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+D:\Faks\new\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Downloads\Animal_cassandra_1578310017\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+D:\Faks\new\New folder\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\PC USER\Downloads\latest\Animal_cassandraaaaaaa\Animal_cassandra\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Tamara\Downloads\CassandraWinFormsSample1\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\PC USER\Downloads\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Downloads\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll.config
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Dragana Korunovic\Desktop\VII semestar\baze\CassandraAnimalsFinal\CassandraWinFormsSample\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
