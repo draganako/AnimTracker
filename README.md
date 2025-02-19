@@ -1,5 +1,5 @@
 # AnimTracker
-An application intended for zookeepers to keep track of their animals
+.NET Forms application intended for zookeepers to keep track of their animals
 
 The application uses Cassandra as a persistence layer. The database has tables for an animal (Zivotinja), its species (Vrsta), an update on their state (Unos), its potential problems - risks (PotencijalniProblemi) and zookeepers (Korisnik).
  Every species has a standard, minimum and maximum of its weight, food and water intake, while every animal has its species, as well as an owner and weight. Zookeepers are responsible for updating their animals' states by listing the amount of food and water they fed the animal, along 
