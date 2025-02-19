@@ -1,4 +1,4 @@
-##AnimTracker
+# AnimTracker
 An application intended for zookeepers to keep track of their animals
 
 The application uses MongoDB as a persistence layer. The database has tables for an animal (Zivotinja), its species (Vrsta), an update on their state (Unos), its potential problems - risks (PotencijalniProblemi) and zookeepers (Korisnik).
