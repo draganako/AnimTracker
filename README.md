@@ -8,7 +8,7 @@ The application uses MongoDB as a persistence layer. The database has tables for
 
  The SQL commands used for creating the aforementioned tables are listed below:
 
- ``
+ ```
 CREATE TABLE "Unos" (
     hrana float,
     voda float,
@@ -68,4 +68,4 @@ CREATE TABLE "PotencijalniProblemi" (
     "vrstaID" text,
     PRIMARY KEY ("vrstaID", "problemID")
 );
-``
+```
